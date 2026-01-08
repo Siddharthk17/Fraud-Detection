@@ -11,8 +11,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg. herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=6.3M%2B+Transactions+Analyzed;99%25+AUPRC+Score+Achieved;Real-Time+Fraud+Detection;XGBoost+ML+Pipeline" alt="Typing SVG" />
-
 <br>
 
 **An end-to-end machine learning solution for detecting fraudulent financial transactions with exceptional accuracy**
@@ -298,6 +296,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![GitHub](https://img.shields.io/badge/GitHub-Siddharthk17-181717?style=for-the-badge&logo=github)
 ---
 
-<img src="https://readme-typing-svg. herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting! +%E2%AD%90;Star+this+repo+if+you+found+it+useful!" alt="Footer" />
 
 </div>
