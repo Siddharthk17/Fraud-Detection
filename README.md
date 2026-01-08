@@ -4,14 +4,14 @@
 
 ### *Catching Financial Criminals with Machine Learning*
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB? style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Powered-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.ai/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=6.3M%2B+Transactions+Analyzed;99%25+AUPRC+Score+Achieved;Real-Time+Fraud+Detection;XGBoost+ML+Pipeline" alt="Typing SVG" />
+<img src="https://readme-typing-svg. herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=6. 3M%2B+Transactions+Analyzed;99%25+AUPRC+Score+Achieved;Real-Time+Fraud+Detection;XGBoost+ML+Pipeline" alt="Typing SVG" />
 
 <br>
 
@@ -143,7 +143,9 @@ weighted avg       1.00      1.00      1.00    554,082
 
 | Confusion Matrix | Feature Importance | Precision-Recall Curve |
 |: ----------------:|:------------------:|:----------------------:|
-| Perfect separation of legitimate vs fraudulent transactions | `errorBalanceOrig` and `errorBalanceDest` are top predictors | AUPRC = 0.9903 demonstrates excellent model calibration |
+| Perfect separation of legitimate vs fraudulent transactions | 
+`errorBalanceOrig` and `errorBalanceDest` are top predictors | 
+AUPRC = 0.9903 demonstrates excellent model calibration |
 
 ---
 
@@ -293,10 +295,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Siddharth K**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Siddharthk17-181717? style=for-the-badge&logo=github)](https://github.com/Siddharthk17)
-
+![GitHub](https://img.shields.io/badge/GitHub-Siddharthk17-181717?style=for-the-badge&logo=github)
 ---
 
-<img src="https://readme-typing-svg. herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting! +%E2%AD%90;Star+this+repo+if+you+found+it+useful!" alt="Footer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting! +%E2%AD%90;Star+this+repo+if+you+found+it+useful!" alt="Footer" />
 
 </div>
